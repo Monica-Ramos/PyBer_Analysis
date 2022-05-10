@@ -10,7 +10,7 @@ This project consisit on two main deliverables. The first one has the purpose of
 From deliverable 1 we can conclude that the highest number of total drivers and total rides are in cities located in an urban zone. Whereas the cities located in rural zones have the least number of total drivers and rides. The total fares per city type are highest in urban zones and smallest in rural zones. However the average fare per ride and driver is higher in rural zones than in urban and suburban zones. The next image shows the complete DataFrame where we can compare the metrics mentioned before: 
 
 
-![]("analysis/DataFrame_city_type.png")
+![](analysis/DataFrame_city_type.png)
 
 
 
