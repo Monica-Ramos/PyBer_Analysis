@@ -16,6 +16,8 @@ From deliverable 2 we confirmed the results obtained from the the previous table
 
 Then from the first week of February up to the first week of April suburban and rural behave very similar to one another. Both having higher fares the fourth week of February. The highest fares for urban cities  are on the last week on frebruary and the second week of march. For suburban the highest fares are on the last week of february and last week of april. And for rural cities the highest fares are on the first week of April.
 
+![](analysis/PyBer_fare_summary.png)
+
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
